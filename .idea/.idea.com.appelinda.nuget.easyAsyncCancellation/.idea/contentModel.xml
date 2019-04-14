@@ -9,10 +9,10 @@
       <e p="packages" t="ExcludeRecursive" />
       <e p="src" t="Include">
         <e p="easyAsyncCancel" t="IncludeRecursive">
-          <e p="EasyAsyncCancel.nuspec" t="Include" />
           <e p="TaskCancellationExtension.cs" t="Include" />
           <e p="bin" t="ExcludeRecursive" />
           <e p="easyAsyncCancel.csproj" t="IncludeRecursive" />
+          <e p="easyAsyncCancel.nuspec" t="Include" />
           <e p="obj" t="ExcludeRecursive">
             <e p="Debug" t="Include">
               <e p="netstandard2.0" t="Include">

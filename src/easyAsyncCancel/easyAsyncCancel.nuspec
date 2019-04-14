@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+    <metadata>
+        <id>EasyAsyncCancel</id>
+        <version>1.0.0</version>
+        <title>Easy Async/Await Cancellation extension</title>
+        <authors>Ali Tabryzy</authors>
+        <owners>Ali Tabryzy</owners>
+        <licenseUrl>https://github.com/AliTabryzy/com.appelinda.nuget.easyAsyncCancellation/blob/master/LICENSE</licenseUrl>
+        <projectUrl>https://github.com/AliTabryzy/com.appelinda.nuget.easyAsyncCancellation</projectUrl>
+        <iconUrl>https://github.com/AliTabryzy/com.appelinda.nuget.easyAsyncCancellation/blob/master/icon.jpeg</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>An easy way to cancel any type of Tasks after a timeout in c#</description>
+        <releaseNotes>Added</releaseNotes>
+        <copyright>Copyright 2019</copyright>
+        <tags>asynchronous, dotnet , async , await , cancellation</tags>
+    </metadata>
+</package>

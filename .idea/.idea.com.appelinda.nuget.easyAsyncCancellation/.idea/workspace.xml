@@ -2,40 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a10ac9a2-3b38-4290-a8e4-e01c3073fb19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.com.appelinda.nuget.easyAsyncCancellation/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.com.appelinda.nuget.easyAsyncCancellation/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.com.appelinda.nuget.easyAsyncCancellation/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.com.appelinda.nuget.easyAsyncCancellation/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.com.appelinda.nuget.easyAsyncCancellation/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.com.appelinda.nuget.easyAsyncCancellation/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.com.appelinda.nuget.easyAsyncCancellation/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.appelinda.nuget.easyAsyncCancellation.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easyAsyncCancel/EasyAsyncCancel.nuspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easyAsyncCancel/TaskCancellationExtension.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easyAsyncCancel/easyAsyncCancel.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easyAsyncCancel/obj/Debug/netstandard2.0/easyAsyncCancel.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easyAsyncCancel/obj/Debug/netstandard2.0/easyAsyncCancel.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easyAsyncCancel/obj/Debug/netstandard2.0/easyAsyncCancel.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easyAsyncCancel/obj/Debug/netstandard2.0/easyAsyncCancel.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easyAsyncCancel/obj/easyAsyncCancel.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easyAsyncCancel/obj/easyAsyncCancel.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easyAsyncCancel/obj/easyAsyncCancel.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easyAsyncCancel/obj/easyAsyncCancel.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easyAsyncCancel/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easyAsyncCancel/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test.easyAsyncCancel/UnitTest1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test.easyAsyncCancel/obj/Debug/netcoreapp2.2/test.easyAsyncCancel.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test.easyAsyncCancel/obj/Debug/netcoreapp2.2/test.easyAsyncCancel.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test.easyAsyncCancel/obj/Debug/netcoreapp2.2/test.easyAsyncCancel.Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test.easyAsyncCancel/obj/Debug/netcoreapp2.2/test.easyAsyncCancel.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test.easyAsyncCancel/obj/Debug/netcoreapp2.2/test.easyAsyncCancel.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test.easyAsyncCancel/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test.easyAsyncCancel/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test.easyAsyncCancel/obj/test.easyAsyncCancel.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test.easyAsyncCancel/obj/test.easyAsyncCancel.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test.easyAsyncCancel/obj/test.easyAsyncCancel.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test.easyAsyncCancel/obj/test.easyAsyncCancel.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test.easyAsyncCancel/test.easyAsyncCancel.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easyAsyncCancel/easyAsyncCancel.nuspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.com.appelinda.nuget.easyAsyncCancellation/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.com.appelinda.nuget.easyAsyncCancellation/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.com.appelinda.nuget.easyAsyncCancellation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.com.appelinda.nuget.easyAsyncCancellation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easyAsyncCancel/EasyAsyncCancel.nuspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easyAsyncCancel/obj/Debug/netstandard2.0/easyAsyncCancel.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/easyAsyncCancel/obj/Debug/netstandard2.0/easyAsyncCancel.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easyAsyncCancel/obj/easyAsyncCancel.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/easyAsyncCancel/obj/easyAsyncCancel.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easyAsyncCancel/obj/easyAsyncCancel.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/easyAsyncCancel/obj/easyAsyncCancel.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easyAsyncCancel/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/easyAsyncCancel/obj/project.assets.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +22,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/easyAsyncCancel/TaskCancellationExtension.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
+            <state relative-caret-position="152">
               <caret line="12" column="52" lean-forward="true" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
               <folding>
                 <marker date="1555251376660" expanded="false" signature="6:67" ph="..." />
@@ -69,10 +43,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/easyAsyncCancel/EasyAsyncCancel.nuspec">
+        <entry file="file://$PROJECT_DIR$/src/easyAsyncCancel/easyAsyncCancel.nuspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+            <state relative-caret-position="323">
+              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -99,6 +73,13 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -112,6 +93,8 @@
         <option value="$PROJECT_DIR$/src/easyAsyncCancel/TaskCancellationExtension.cs" />
         <option value="$PROJECT_DIR$/test/test.easyAsyncCancel/UnitTest1.cs" />
         <option value="$PROJECT_DIR$/src/easyAsyncCancel/EasyAsyncCancel.nuspec" />
+        <option value="$PROJECT_DIR$/src/easyAsyncCancel/package.json" />
+        <option value="$PROJECT_DIR$/src/easyAsyncCancel/easyAsyncCancel.nuspec" />
       </list>
     </option>
   </component>
@@ -168,6 +151,7 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Com.Appelinda.Mail.Validator" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -193,12 +177,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555251259290</updated>
-      <workItem from="1555251260757" duration="972000" />
+      <workItem from="1555251260757" duration="2842000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="972000" />
+    <option name="totallyTimeSpent" value="2842000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -211,7 +195,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="988" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -276,9 +259,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/easyAsyncCancel/EasyAsyncCancel.nuspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easyAsyncCancel/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/easyAsyncCancel/TaskCancellationExtension.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
+        <state relative-caret-position="152">
           <caret line="12" column="52" lean-forward="true" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
           <folding>
             <marker date="1555251376660" expanded="false" signature="6:67" ph="..." />
@@ -297,10 +294,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/easyAsyncCancel/EasyAsyncCancel.nuspec">
+    <entry file="file://$PROJECT_DIR$/src/easyAsyncCancel/easyAsyncCancel.nuspec">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        <state relative-caret-position="323">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
         </state>
       </provider>
     </entry>
