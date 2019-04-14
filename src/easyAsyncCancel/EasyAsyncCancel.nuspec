@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+    <metadata>
+        <id>EasyAsyncCancel</id>
+        <title>Easy Async/Await cancellation</title>
+        <version>0.0.1</version>
+        <description>
+            Task and Task of T Object Extension for an easy asynchronous cancellation 
+        </description>
+        <summary>
+            Task and Task of T Object Extension for an easy asynchronous cancellation 
+        </summary>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <authors>Ali Tabryzy</authors>
+        <copyright>Copyright Â© Ali Tabryzy 2019</copyright>
+        <licenseUrl>https://github.com/AliTabryzy/com.appelinda.nuget.easyAsyncCancellation/blob/master/LICENSE</licenseUrl>
+        <projectUrl>https://github.com/AliTabryzy/com.appelinda.nuget.easyAsyncCancellation/</projectUrl>
+        <tags>Async,Await,c#,Asynchronous,easy,cancellation</tags>
+    </metadata>
+</package>
