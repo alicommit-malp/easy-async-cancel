@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a10ac9a2-3b38-4290-a8e4-e01c3073fb19" name="Default Changelist" comment="operation cancel exception custom message feature added">
-      <change beforePath="$PROJECT_DIR$/src/EasyAsyncCancel/EasyAsyncCancel.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/EasyAsyncCancel/EasyAsyncCancel.csproj" afterDir="false" />
+    <list default="true" id="a10ac9a2-3b38-4290-a8e4-e01c3073fb19" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.com.appelinda.nuget.easyAsyncCancellation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.com.appelinda.nuget.easyAsyncCancellation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.appelinda.nuget.easyAsyncCancellation.sln" beforeDir="false" afterPath="$PROJECT_DIR$/com.appelinda.nuget.easyAsyncCancellation.sln" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +16,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/EasyAsyncCancel/TaskCancellationExtension.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+            <state relative-caret-position="152">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
               <folding>
                 <marker date="1555412654136" expanded="false" signature="6:67" ph="..." />
                 <marker date="1555412654136" expanded="true" signature="94:7359" ph="{...}" />
@@ -54,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file:///usr/share/dotnet/sdk/2.2.203/Sdks/NuGet.Build.Tasks.Pack/build/NuGet.Build.Tasks.Pack.targets">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="197" column="22" lean-forward="true" selection-start-line="197" selection-start-column="22" selection-end-line="197" selection-end-column="22" />
+            <state relative-caret-position="204">
+              <caret line="208" column="24" selection-start-line="208" selection-start-column="24" selection-end-line="208" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -100,7 +101,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6DADD22E-0197-42CE-80AA-EFEF99855BE0/4b/55a39a6d/OperationCanceledException.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/EasyAsyncCancel/TaskCancellationExtension.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/test/test.easyAsyncCancel/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/test.easyAsyncCancel/UnitTest1.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -150,17 +151,6 @@
               <item name="src" type="24d0babc:SolutionExplorerModelNode" />
               <item name="EasyAsyncCancel" type="24d0babc:SolutionExplorerModelNode" />
             </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="com.appelinda.nuget.easyAsyncCancellation" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="test" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="com.appelinda.nuget.easyAsyncCancellation" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="test" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="test.easyAsyncCancel" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -200,7 +190,7 @@
       <option name="presentableId" value="Default" />
       <updated>1555251259290</updated>
       <workItem from="1555251260757" duration="2842000" />
-      <workItem from="1555411420920" duration="2031000" />
+      <workItem from="1555411420920" duration="2532000" />
     </task>
     <task id="LOCAL-00001" summary="operation cancel exception custom message feature added">
       <created>1555411976920</created>
@@ -223,11 +213,25 @@
       <option name="project" value="LOCAL" />
       <updated>1555412842782</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="small tune">
+      <created>1555413470004</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1555413470004</updated>
+    </task>
+    <task id="LOCAL-00005" summary="small tune">
+      <created>1555413492254</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1555413492254</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4873000" />
+    <option name="totallyTimeSpent" value="5374000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -255,12 +259,12 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="NuGet" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32996973" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Unit Tests" order="11" weight="0.3298122" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.30776992" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.30776992" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Build" order="14" visible="true" weight="0.32896066" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.32896066" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -277,7 +281,8 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <MESSAGE value="operation cancel exception custom message feature added" />
-    <option name="LAST_COMMIT_MESSAGE" value="operation cancel exception custom message feature added" />
+    <MESSAGE value="small tune" />
+    <option name="LAST_COMMIT_MESSAGE" value="small tune" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -309,10 +314,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/test.easyAsyncCancel/UnitTest1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <folding>
+            <marker date="1555412654144" expanded="false" signature="6:136" ph="..." />
+            <marker date="1555412654144" expanded="true" signature="168:1540" ph="{...}" />
+            <marker date="1555412654144" expanded="true" signature="231:1538" ph="{...}" />
+            <marker date="1555412654144" expanded="true" signature="284:387" ph="{...}" />
+            <marker date="1555412654144" expanded="true" signature="445:555" ph="{...}" />
+            <marker date="1555412654144" expanded="true" signature="621:922" ph="{...}" />
+            <marker date="1555412654144" expanded="true" signature="982:1532" ph="{...}" />
+            <marker date="1555412654144" expanded="true" signature="1063:1253" ph="{...}" />
+            <marker date="1555412654144" expanded="true" signature="1328:1520" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/EasyAsyncCancel/TaskCancellationExtension.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        <state relative-caret-position="152">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
           <folding>
             <marker date="1555412654136" expanded="false" signature="6:67" ph="..." />
             <marker date="1555412654136" expanded="true" signature="94:7359" ph="{...}" />
@@ -337,28 +360,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/test.easyAsyncCancel/UnitTest1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-          <folding>
-            <marker date="1555412654144" expanded="false" signature="6:136" ph="..." />
-            <marker date="1555412654144" expanded="true" signature="168:1540" ph="{...}" />
-            <marker date="1555412654144" expanded="true" signature="231:1538" ph="{...}" />
-            <marker date="1555412654144" expanded="true" signature="284:387" ph="{...}" />
-            <marker date="1555412654144" expanded="true" signature="445:555" ph="{...}" />
-            <marker date="1555412654144" expanded="true" signature="621:922" ph="{...}" />
-            <marker date="1555412654144" expanded="true" signature="982:1532" ph="{...}" />
-            <marker date="1555412654144" expanded="true" signature="1063:1253" ph="{...}" />
-            <marker date="1555412654144" expanded="true" signature="1328:1520" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/share/dotnet/sdk/2.2.203/Sdks/NuGet.Build.Tasks.Pack/build/NuGet.Build.Tasks.Pack.targets">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="197" column="22" lean-forward="true" selection-start-line="197" selection-start-column="22" selection-end-line="197" selection-end-column="22" />
+        <state relative-caret-position="204">
+          <caret line="208" column="24" selection-start-line="208" selection-start-column="24" selection-end-line="208" selection-end-column="24" />
         </state>
       </provider>
     </entry>

@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyAsyncCancel", "src\Easy
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{5E76F23C-82DC-4844-9304-0E018FAF338A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test.easyAsyncCancel", "test\test.easyAsyncCancel\test.easyAsyncCancel.csproj", "{45F0031C-816E-403C-8261-3AB2CF40E560}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
