@@ -12,12 +12,23 @@ private async Task Task_NetworkBound()
 {
     await new HttpClient().GetStringAsync("https://dotnetfoundation.org");
 }
+private async Task<string> Task_NetworkBound_T()
+{
+    return await new HttpClient().GetStringAsync("https://dotnetfoundation.org");
+}
 ```
 In order for the task to get canceled after 1 seconds 
 
 ```c#
-await Task_NetworkBound().CancelAfter(1000);
-await Task_NetworkBound().CancelAfter(1000,"The time of this task is up");
+
+var cts = new CancellationTokenSource();
+cts.CancelAfter(1000);
+
+await Task_NetworkBound().CancelAfter(cts.Token);
+await Task_NetworkBound_T().CancelAfter(cts.Token,"Custom Message");
+
+await Task_NetworkBound_T().CancelAfter(1000);
+await Task_NetworkBound().CancelAfter(1000,"Custom Message");
 ``` 
 
 Happy coding :)
