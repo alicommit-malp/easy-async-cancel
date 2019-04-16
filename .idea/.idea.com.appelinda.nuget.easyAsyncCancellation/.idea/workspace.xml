@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a10ac9a2-3b38-4290-a8e4-e01c3073fb19" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.com.appelinda.nuget.easyAsyncCancellation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.com.appelinda.nuget.easyAsyncCancellation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.appelinda.nuget.easyAsyncCancellation.sln" beforeDir="false" afterPath="$PROJECT_DIR$/com.appelinda.nuget.easyAsyncCancellation.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/EasyAsyncCancel/TaskCancellationExtension.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            <state relative-caret-position="171">
+              <caret line="143" column="45" selection-start-line="143" selection-start-column="45" selection-end-line="143" selection-end-column="45" />
               <folding>
                 <marker date="1555412654136" expanded="false" signature="6:67" ph="..." />
                 <marker date="1555412654136" expanded="true" signature="94:7359" ph="{...}" />
@@ -52,11 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file:///usr/share/dotnet/sdk/2.2.203/Sdks/NuGet.Build.Tasks.Pack/build/NuGet.Build.Tasks.Pack.targets">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="208" column="24" selection-start-line="208" selection-start-column="24" selection-end-line="208" selection-end-column="24" />
+            <state relative-caret-position="470">
+              <caret line="222" column="46" selection-start-line="222" selection-start-column="46" selection-end-line="222" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -122,10 +121,8 @@
     </layout>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="47" />
-    <option name="width" value="1400" />
-    <option name="height" value="948" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -231,7 +228,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5374000" />
+    <option name="totallyTimeSpent" value="5375000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -300,13 +297,7 @@
     <entry file="file://$PROJECT_DIR$/src/EasyAsyncCancel/EasyAsyncCancel.csproj">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/easyAsyncCancel/easyAsyncCancel.nuspec">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easyAsyncCancel/easyAsyncCancel.nuspec" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6DADD22E-0197-42CE-80AA-EFEF99855BE0/4b/55a39a6d/OperationCanceledException.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="370">
@@ -334,8 +325,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/EasyAsyncCancel/TaskCancellationExtension.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        <state relative-caret-position="171">
+          <caret line="143" column="45" selection-start-line="143" selection-start-column="45" selection-end-line="143" selection-end-column="45" />
           <folding>
             <marker date="1555412654136" expanded="false" signature="6:67" ph="..." />
             <marker date="1555412654136" expanded="true" signature="94:7359" ph="{...}" />
@@ -362,8 +353,8 @@
     </entry>
     <entry file="file:///usr/share/dotnet/sdk/2.2.203/Sdks/NuGet.Build.Tasks.Pack/build/NuGet.Build.Tasks.Pack.targets">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="208" column="24" selection-start-line="208" selection-start-column="24" selection-end-line="208" selection-end-column="24" />
+        <state relative-caret-position="470">
+          <caret line="222" column="46" selection-start-line="222" selection-start-column="46" selection-end-line="222" selection-end-column="46" />
         </state>
       </provider>
     </entry>
