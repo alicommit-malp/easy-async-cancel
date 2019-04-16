@@ -17,6 +17,7 @@ In order for the task to get canceled after 1 seconds
 
 ```c#
 await Task_NetworkBound().CancelAfter(1000);
+await Task_NetworkBound().CancelAfter(1000,"The time of this task is up");
 ``` 
 
 Happy coding :)
