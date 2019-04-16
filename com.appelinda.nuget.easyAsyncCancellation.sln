@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{889FC6AD-4050-4525-B99D-FFD4992A0F3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "easyAsyncCancel", "src\easyAsyncCancel\easyAsyncCancel.csproj", "{DA354F38-5487-4958-8C16-CB50E90D33A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyAsyncCancel", "src\EasyAsyncCancel\EasyAsyncCancel.csproj", "{DA354F38-5487-4958-8C16-CB50E90D33A8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{5E76F23C-82DC-4844-9304-0E018FAF338A}"
 EndProject

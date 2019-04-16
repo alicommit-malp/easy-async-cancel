@@ -2,7 +2,7 @@ using System;
 using System.Net.Http;
 using System.Threading;
 using System.Threading.Tasks;
-using easyAsyncCancel;
+using EasyAsyncCancel;
 using NUnit.Framework;
 
 namespace test.easyAsyncCancel

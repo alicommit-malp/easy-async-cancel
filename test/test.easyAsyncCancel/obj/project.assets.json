@@ -1646,14 +1646,14 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "easyAsyncCancel/1.0.0": {
+      "EasyAsyncCancel/1.1.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "bin/placeholder/easyAsyncCancel.dll": {}
+          "bin/placeholder/EasyAsyncCancel.dll": {}
         },
         "runtime": {
-          "bin/placeholder/easyAsyncCancel.dll": {}
+          "bin/placeholder/EasyAsyncCancel.dll": {}
         }
       }
     }
@@ -5761,18 +5761,18 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "easyAsyncCancel/1.0.0": {
+    "EasyAsyncCancel/1.1.0": {
       "type": "project",
-      "path": "../../src/easyAsyncCancel/easyAsyncCancel.csproj",
-      "msbuildProject": "../../src/easyAsyncCancel/easyAsyncCancel.csproj"
+      "path": "../../src/EasyAsyncCancel/EasyAsyncCancel.csproj",
+      "msbuildProject": "../../src/EasyAsyncCancel/EasyAsyncCancel.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
+      "EasyAsyncCancel >= 1.1.0",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "Microsoft.NETCore.App >= 2.2.0",
       "NUnit3TestAdapter >= 3.11.0",
-      "easyAsyncCancel >= 1.0.0",
       "nunit >= 3.11.0"
     ]
   },
@@ -5804,8 +5804,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "/home/king/RiderProjects/com.appelinda.nuget.easyAsyncCancellation/src/easyAsyncCancel/easyAsyncCancel.csproj": {
-              "projectPath": "/home/king/RiderProjects/com.appelinda.nuget.easyAsyncCancellation/src/easyAsyncCancel/easyAsyncCancel.csproj"
+            "/home/king/RiderProjects/com.appelinda.nuget.easyAsyncCancellation/src/EasyAsyncCancel/EasyAsyncCancel.csproj": {
+              "projectPath": "/home/king/RiderProjects/com.appelinda.nuget.easyAsyncCancellation/src/EasyAsyncCancel/EasyAsyncCancel.csproj"
             }
           }
         }

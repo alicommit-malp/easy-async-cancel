@@ -15,8 +15,8 @@
     "frameworks": {
       "netcoreapp2.2": {
         "projectReferences": {
-          "/home/king/RiderProjects/com.appelinda.nuget.easyAsyncCancellation/src/easyAsyncCancel/easyAsyncCancel.csproj": {
-            "projectPath": "/home/king/RiderProjects/com.appelinda.nuget.easyAsyncCancellation/src/easyAsyncCancel/easyAsyncCancel.csproj"
+          "/home/king/RiderProjects/com.appelinda.nuget.easyAsyncCancellation/src/EasyAsyncCancel/EasyAsyncCancel.csproj": {
+            "projectPath": "/home/king/RiderProjects/com.appelinda.nuget.easyAsyncCancellation/src/EasyAsyncCancel/EasyAsyncCancel.csproj"
           }
         }
       }
