@@ -4,11 +4,11 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>EasyAsyncCancel</PackageId>
-    <PackageVersion>1.1.0</PackageVersion>
+    <PackageVersion>2.0.0</PackageVersion>
     <Title>Easy Async/Await cancellation</Title>
-    <Authors>Ali Tabryzy</Authors>
+    <Authors>Ali Alp</Authors>
     <Description>An easy way to cancel any type of Tasks after timeout</Description>
-    <Copyright>Ali Tabryzy 2019</Copyright>
+    <Copyright>Ali Alp 2019</Copyright>
     <PackageProjectUrl>https://github.com/AliTabryzy/com.appelinda.nuget.easyAsyncCancellation</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/AliTabryzy/com.appelinda.nuget.easyAsyncCancellation/blob/master/LICENSE</PackageLicenseUrl>
     <PackageIconUrl>https://github.com/AliTabryzy/com.appelinda.nuget.easyAsyncCancellation/blob/master/icon.png</PackageIconUrl>
