@@ -8,13 +8,13 @@ Therefore, the ability to set a timeout for a asynchronous operation is a must, 
 Let's say there is a Task which it can take unknown amount of time to finish  
 
 ```c#
-private async Task Task_NetworkBound()
+private Task Task_NetworkBound()
 {
-    await new HttpClient().GetStringAsync("https://dotnetfoundation.org");
+    return new HttpClient().GetStringAsync("https://dotnetfoundation.org");
 }
-private async Task<string> Task_NetworkBound_T()
+private Task<string> Task_NetworkBound_T()
 {
-    return await new HttpClient().GetStringAsync("https://dotnetfoundation.org");
+    return new HttpClient().GetStringAsync("https://dotnetfoundation.org");
 }
 ```
 In order for the task to get canceled after 1 seconds 
