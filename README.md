@@ -19,13 +19,20 @@ private async Task<string> Task_NetworkBound_T()
 ```
 In order for the task to get canceled after 1 seconds 
 
+Install it from [Nuget](https://www.nuget.org/packages/easyAsyncCancel/)
+
+```bash
+dotnet add package easyAsyncCancel
+```
+
+
 ```c#
 
 var cts = new CancellationTokenSource();
 cts.CancelAfter(1000);
 
-await Task_NetworkBound().CancelAfter(cts.Token);
-await Task_NetworkBound_T().CancelAfter(cts.Token,"Custom Message");
+await Task_NetworkBound().CancelWith(cts.Token);
+await Task_NetworkBound_T().CancelWith(cts.Token,"Custom Message");
 
 await Task_NetworkBound_T().CancelAfter(1000);
 await Task_NetworkBound().CancelAfter(1000,"Custom Message");
