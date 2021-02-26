@@ -10,14 +10,14 @@ namespace EasyAsyncCancel.Test
 {
     public class UnitTest1
     {
-        private async Task Task_NetworkBound()
+        private Task Task_NetworkBound()
         {
-            await new HttpClient().GetStringAsync("https://dotnetfoundation.org");
+            return new HttpClient().GetStringAsync("https://dotnetfoundation.org");
         }
 
-        private async Task<string> Task_NetworkBound_T()
+        private Task<string> Task_NetworkBound_T()
         {
-            return await new HttpClient().GetStringAsync("https://dotnetfoundation.org");
+            return new HttpClient().GetStringAsync("https://dotnetfoundation.org");
         }
 
         [Fact]
